@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Base de datos Jardineria", "..\..\..\..\..\descargas sql\Base de datos Jardineria.dtproj", "{2A75CB5D-0F71-2FA1-81C2-9B0C4FE7356C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A75CB5D-0F71-2FA1-81C2-9B0C4FE7356C}.Development|Default.ActiveCfg = Development
+		{2A75CB5D-0F71-2FA1-81C2-9B0C4FE7356C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11411826-69BF-4EEC-A45E-0C7E2D76BD58}
+	EndGlobalSection
+EndGlobal

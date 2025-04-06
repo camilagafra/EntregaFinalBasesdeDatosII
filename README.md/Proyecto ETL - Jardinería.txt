@@ -1,0 +1,17 @@
+# Proyecto ETL - Jardinería
+
+Este repositorio contiene los archivos del proyecto de ETL desarrollado en SQL Server y Visual Studio, aplicado a una base de datos de jardinería.
+
+# Estructura del proyecto
+
+- **1_ProcesoETL_VisualStudio/**: Archivos del proyecto SSIS (ETL).
+- **2_BackupsSQLServer/**: Respaldos `.bak` de las bases Jardinería, Staging y Datamart.
+- **3_Informe/**: Informe final en PDF con toda la explicación del proceso.
+- **4_PruebasCalidad/**: Documento PDF con las pruebas de calidad de datos aplicadas.
+
+# Información adicional
+
+Todos los detalles del proceso ETL, pruebas de calidad, consultas SQL y evidencias se encuentran documentados en los archivos PDF incluidos en las carpetas correspondientes.
+
+
+# Proyecto realizado como parte del curso de Bases de datos 2 — [Marta Rugeles - Camila Gallego], [06/04/2025]
